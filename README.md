@@ -1,2 +1,2 @@
 # higurashi_adds
-Some adds for Higurashi no Naku Koro ni
+Some things for Higurashi no Naku Koro ni
